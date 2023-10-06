@@ -1,6 +1,6 @@
 # Heatmap Video Generator
 
-This Python script (`heatmap.py`) allows you to generate a heatmap video from a source video. The heatmap video visualizes the areas of the source video that attract the most attention.
+This Python script (`heatmap.py`) allows you to generate a heatmap video from a source video. The heatmap script searches for pixel changes and turns them into a red/orange depends on how much the pixel changed over 2 frames and after the 2 frames it will fade away slowly
 
 ## Required Libraries
 

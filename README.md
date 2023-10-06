@@ -12,10 +12,8 @@ Before running the script, make sure you have the following libraries installed:
 
 You can install the required libraries using pip:
 
-```bash
 pip install opencv-python numpy
 
-```bash
 Usage
 Follow these steps to generate a heatmap video:
 

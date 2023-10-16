@@ -30,9 +30,9 @@ The script will open a file dialog for you to select the source video.
 
 After selecting the source video, the script will process it and generate the heatmap.
 
-The heatmap will be saved as heatmap.avi in the same directory as the script.
+The heatmap will be saved as heatmap.avi in the same directory as the video, But you can also see the directory where it was saved after it finishes processing.
 
-Once the script completes, you can find the heatmap video (heatmap.avi) in the same directory as the script.
+Once the script completes, you can find the heatmap video (heatmap.avi) in the same directory as the video.
 
 License
 This project is licensed under the MIT License. See the LICENSE file for details.

@@ -22,7 +22,11 @@ Clone or download this repository to your local machine.
 
 Navigate to the project directory in your command line terminal:
 
-cd path/to/heatmap-video-generator
+cd Downloads
+Wherever the file of heatmap.py or anything else is just go to there
+If you dont know how to do this follow this tutorial https://www.youtube.com/watch?v=BfXh11ryBJg
+You have to select the folder where you want to go and drag it in cmd, For example if the file heatmap.py is in downloads directory in cmd type cd. After typing cd drag your downloads directory from file explorer quick access and drag it into cmd. Make sure there is a space between cd and the directory
+ 
 Run the script using the following command:
 
 python heatmap.py

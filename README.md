@@ -14,7 +14,6 @@ You can install the required libraries using pip:
 
 pip install opencv-python numpy
 
-```bash
 Usage
 Follow these steps to generate a heatmap video:
 
